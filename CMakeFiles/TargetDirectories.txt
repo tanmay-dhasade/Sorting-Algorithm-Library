@@ -1,0 +1,8 @@
+/home/berkshiregrey.com/tanmay.dhasade/Documents/Sorting-Algorithm-Library/CMakeFiles/SortingAlgorithms.dir
+/home/berkshiregrey.com/tanmay.dhasade/Documents/Sorting-Algorithm-Library/CMakeFiles/test.dir
+/home/berkshiregrey.com/tanmay.dhasade/Documents/Sorting-Algorithm-Library/CMakeFiles/edit_cache.dir
+/home/berkshiregrey.com/tanmay.dhasade/Documents/Sorting-Algorithm-Library/CMakeFiles/rebuild_cache.dir
+/home/berkshiregrey.com/tanmay.dhasade/Documents/Sorting-Algorithm-Library/CMakeFiles/list_install_components.dir
+/home/berkshiregrey.com/tanmay.dhasade/Documents/Sorting-Algorithm-Library/CMakeFiles/install.dir
+/home/berkshiregrey.com/tanmay.dhasade/Documents/Sorting-Algorithm-Library/CMakeFiles/install/local.dir
+/home/berkshiregrey.com/tanmay.dhasade/Documents/Sorting-Algorithm-Library/CMakeFiles/install/strip.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSortingAlgorithms.a CMakeFiles/SortingAlgorithms.dir/sorting_algorithm/src/BubbleSort.cpp.o
+/usr/bin/ranlib libSortingAlgorithms.a
